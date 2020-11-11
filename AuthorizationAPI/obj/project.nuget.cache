@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gp2yZS5w12jLzR5oEYi5QDWeDzYETAMiOp+0VbawbTNPVb2J7RUzn45CwNbKxyYi6fvZdgjsw8sngodUyGgklA==",
+  "dgSpecHash": "qDELwORtmm4Wzw+DKptZldBlwheocP/GDbUGXvQwgvegKyxn5pDv0oPUAsQ8LCFqnbn782SotJrA3mwyx3Kl4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\AuthorizationAPI.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\AuthorizationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

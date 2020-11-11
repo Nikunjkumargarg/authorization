@@ -4888,11 +4888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "projectName": "AuthorizationAPI",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

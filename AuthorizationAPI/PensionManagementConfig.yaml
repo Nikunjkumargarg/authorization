@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pensionauthorizationrepos
-        image: 849428mfpecr.azurecr.io/pensionauthorizationrepos:latest
+        image: 848954mfpecr.azurecr.io/pensionauthorizationrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

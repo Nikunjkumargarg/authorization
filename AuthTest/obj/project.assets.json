@@ -6138,11 +6138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthTest\\AuthTest.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthTest\\AuthTest.csproj",
       "projectName": "AuthTest",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthTest\\AuthTest.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthTest\\AuthTest.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthTest\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6158,8 +6158,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\AuthorizationAPI.csproj": {
-              "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API-main\\AuthorizationAPI\\AuthorizationAPI.csproj"
+            "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+              "projectPath": "C:\\Users\\Dell\\Desktop\\project\\Pension-Authorization-API\\AuthorizationAPI\\AuthorizationAPI.csproj"
             }
           }
         }
